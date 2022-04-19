@@ -64,3 +64,4 @@ If you find this useful in your research, please consider citing our paper.
 * [\[2\]](#references) Yinlin Hu, Joachim Hugonot, Pascal Fua, and Mathieu Salz- mann. **Segmentation-Driven 6D Object Pose Estimation.**.
 * [\[3\]](#references) Clément Godard, Oisin Mac Aodha, Michael Firman and Gabriel J. Brostow. **Digging into Self-Supervised Monocular Depth Prediction**.
 * [\[4\]](#references) Wang, Yue; Sun, Yongbin; Liu, Ziwei; Sarma, Sanjay E.; Bronstein, Michael M.; Solomon, Justin M. **Dynamic Graph CNN for Learning on Point Clouds**.
+* [\[4\]](#references) Gu Wang, Fabian Manhardt, Federico Tombari, and Xi- angyang Ji. **GDR-net: Geometry-guided direct regression network for monocular 6d object pose estimation**.
