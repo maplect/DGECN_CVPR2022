@@ -3,7 +3,7 @@ This repo provides the PyTorch implementation of the work:
 
 **Tuo Cao, Fei Luo, Yanping Fu, Wenxiao Zhang, Shengjie Zheng, Chunxia Xiao. DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation. In CVPR 2022.** [Project page](http://graphvision.whu.edu.cn/)
 
-Please note that this repo only contains test code without KFA and DRN, and test with RANSAC/PnP. But we also provide our DG-PnP, we may provide the full code in [Huawei Ascend](https://gitee.com/ascend/modelzoo) after the conference.
+Please note that this repo only contains test code without KFA and DRN, and test with RANSAC/PnP. But we also provide our DG-PnP, we may provide the full code in [Huawei Ascend](https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv) after the conference.
 
 ## Overview
 <p align="center">
