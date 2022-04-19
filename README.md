@@ -59,3 +59,8 @@ This pretrained model is trained on  video 0000 ~ 0010， the predictions on oth
 
 If you find this useful in your research, please consider citing our paper.
 
+# References
+* [\[1\]](#references) Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou. **PVNET: Pixel-wise voting network for 6dof pose estimation**.
+* [\[2\]](#references) Yinlin Hu, Joachim Hugonot, Pascal Fua, and Mathieu Salz- mann. **Segmentation-Driven 6D Object Pose Estimation.**.
+* [\[3\]](#references) Clément Godard, Oisin Mac Aodha, Michael Firman and Gabriel J. Brostow. **Digging into Self-Supervised Monocular Depth Prediction**.
+* [\[4\]](#references) Wang, Yue; Sun, Yongbin; Liu, Ziwei; Sarma, Sanjay E.; Bronstein, Michael M.; Solomon, Justin M. **Dynamic Graph CNN for Learning on Point Clouds**.
