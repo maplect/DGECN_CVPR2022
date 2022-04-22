@@ -20,7 +20,7 @@ Please note that this repo only contains test code without KFA and DRN, and test
 
 
 ## Datasets and Pretrained model
-Download the YCB-V from [here](https://rse-lab.cs.washington.edu/projects/posecnn/) and extract to ./data.
+Download the YCB-V from [here](https://rse-lab.cs.washington.edu/projects/posecnn/) and extract to ```./data.```
 
 Please also download the pretrained model from here ([BaiduNetDisk](https://pan.baidu.com/s/1q6ar8b-zXzX_Dn4jEIjugA), [OneDrive](https://1drv.ms/u/s!AiHxSa8u7WVsaRnkDzRcQZPnAi4?e=uVm0wF), password: gk8y).
 
