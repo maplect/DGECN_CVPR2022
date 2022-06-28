@@ -59,11 +59,13 @@ This pretrained model is trained on  video 0000 ~ 0010， the predictions on oth
 
 If you find this useful in your research, please consider citing our paper.
 ```
-@inproceedings{cao2022dgecn, 
-  author = {Tuo Cao and Fei Luo and Yanping Fu and Wenxiao Zhang and Shengjie Zheng and Chunxia Xiao, 
-  title = {DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation}, 
-  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
-  year = {2022}
+@InProceedings{Cao_2022_CVPR,
+    author    = {Cao, Tuo and Luo, Fei and Fu, Yanping and Zhang, Wenxiao and Zheng, Shengjie and Xiao, Chunxia},
+    title     = {DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {3783-3792}
 }
 ```
 # References
